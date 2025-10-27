@@ -103,13 +103,10 @@ You can use cached data offline for up to 7 days.
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: [Your Contact Email]
-- GitHub: https://github.com/AIFROST/S-HK-APPV2
+- Email: Spotappdevelopers@hotmail.com
 
 ## Consent
 
 By using SähköVahti, you consent to this Privacy Policy.
 
----
 
-**Note**: This privacy policy is specifically designed for SähköVahti, a utility app that displays public electricity price information without collecting personal user data.
